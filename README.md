@@ -4,7 +4,7 @@
 
 Business Analyst | Data Analyst | Business Analytics
 
-B.Tech Computer Science + MBA background, building practical solutions across business analysis and data analytics.
+B.Tech CS + MBA BA, with a focus on building practical solutions across Business Analysis and Data Analytics.
 
 ## Core Skills
 

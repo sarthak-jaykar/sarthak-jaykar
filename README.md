@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**sarthak-jaykar/sarthak-jaykar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sarthak Jaykar
 
-Here are some ideas to get you started:
+Business Analyst | Data Analyst | Business Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+B.Tech Computer Science + MBA background, building practical solutions across business analysis and data analytics.
+
+## Core Skills
+
+- Business Analysis: Requirements Analysis, User Stories, Acceptance Criteria, Process Mapping, BPMN
+- Data Analytics: SQL, PostgreSQL, Excel, Python, Pandas
+- Data Visualization: Power BI, Excel Dashboards
+- BA Tools: Jira, Confluence, Draw.io, Postman
+- Version Control: Git, GitHub
+
+## Featured Work
+
+### Data Analytics
+- Retail Sales Business Analysis — SQL/PostgreSQL
+- Retail Sales Business Analysis — Power BI
+- Financial Planning & Sales Performance Dashboard — Excel
+- Customer Churn & Retention Analytics — Python
+
+### Business Analysis
+- IT Service Request Management — BA Case Study
+- BA Tools Mini Projects — Jira, Confluence, Draw.io/BPMN & Postman
+
+## What I Focus On
+
+Turning business requirements and data into structured analysis, actionable insights, and practical business solutions.
+
+## Portfolio
+
+Explore my repositories below for project evidence and analysis work.

@@ -1,39 +1,38 @@
+## Hi there 👋
+
 # Sarthak Jaykar
 
-**Business Analyst | Business Systems | Data & Business Analytics**
+Business Analyst | Data Analyst | Business Analytics
 
-B.Tech Computer Science + MBA Business Analytics. I combine a technical foundation with business analysis and analytics to understand processes, requirements, and performance—and turn them into structured solutions and insights.
+B.Tech CS + MBA BA, with a focus on building practical solutions across Business Analysis and Data Analytics.
 
 ## Core Skills
 
-- **Business Analysis:** Requirements Analysis, User Stories, Acceptance Criteria, Process Mapping, BPMN, Business Documentation
-- **Data Analytics:** SQL, PostgreSQL, Excel, Python, Pandas
-- **BI & Reporting:** Power BI, Excel Dashboards
-- **BA Tools:** Jira, Confluence, Draw.io, Postman
-- **Technical Foundation:** Databases, Programming, Git, GitHub
+- Business Analysis: Requirements Analysis, User Stories, Acceptance Criteria, Process Mapping, BPMN
+- Data Analytics: SQL, PostgreSQL, Excel, Python, Pandas
+- Data Visualization: Power BI, Excel Dashboards
+- BA Tools: Jira, Confluence, Draw.io, Postman
+- Version Control: Git, GitHub
 
-## Selected Portfolio
+## Featured Work
 
-### SQL & Python Analytics
-- [Maven Fuzzy Factory — E-Commerce Funnel & Revenue Analysis (SQL)](https://github.com/sarthak-jaykar/maven-fuzzy-factory-ecommerce-eda-sql)
-- [Airline Loyalty Programme — Member Value, Churn & Points (SQL)](https://github.com/sarthak-jaykar/airline-loyalty-program-eda-sql)
-- [Consumer Complaints Analysis (Python)](https://github.com/sarthak-jaykar/cfpb-consumer-complaints-eda-python)
-- [NYC Traffic Accidents 2020 (Python)](https://github.com/sarthak-jaykar/nyc-traffic-accidents-eda-python)
-- [Customer Churn & Retention (Python)](https://github.com/sarthak-jaykar/Customer-churn-retention-analytics-Python-EDA)
-- [Retail Sales Business Analysis (SQL)](https://github.com/sarthak-jaykar/Retail-Sales-Business-Analysis-SQL)
+#### Data Analytics
 
-### Power BI & Excel
-- [Nexus FP&A Analytics](https://github.com/sarthak-jaykar/budget-vs-actual-fpa-analytics)
-- [AR & Working Capital Analytics](https://github.com/sarthak-jaykar/ar-working-capital-analytics)
-- [Manufacturing, Procurement & Warehousing Performance](https://github.com/sarthak-jaykar/MPW-Performance-Analytics)
-- [Inventory Optimization & Stockout Risk](https://github.com/sarthak-jaykar/Inventory-Optimization-Analytics)
-- [Sales Performance & Profitability Dashboard (Excel)](https://github.com/sarthak-jaykar/Sales-Performance-Profitability-Analytics-Excel)
+- [Customer Churn & Retention Analytics — Python](https://github.com/sarthak-jaykar/customer-churn-retention-analytics)
+- [Retail Sales Business Analysis — Power BI](https://github.com/sarthak-jaykar/Retail-Sales-Business-Analysis-PowerBI)
+- [Retail Sales Business Analysis — SQL/PostgreSQL](https://github.com/sarthak-jaykar/Retail-Sales-Business-Analysis-SQL)
+- [Financial Planning & Sales Performance Dashboard — Excel](https://github.com/sarthak-jaykar/financial-planning-sales-performance-dashboard)
 
-### Business Analysis
+#### Business Analysis
+
 - [IT Service Request Management — BA Case Study](https://github.com/sarthak-jaykar/IT-Service-Request-Management-BA-Case-Study)
-- [BA Tools Mini-Projects — Jira, Confluence, BPMN & Postman](https://github.com/sarthak-jaykar/BA-Tools-Mini-Projects)
+- [BA Tools Mini Projects — Jira, Confluence, BPMN & Postman](https://github.com/sarthak-jaykar/BA-Tools-Mini-Projects)
 
-## Focus
+## What I Focus On
 
-Business requirements, process understanding, data-backed analysis, documentation, and practical business-technology solutions.
+Turning business requirements and data into structured analysis, actionable insights, and practical business solutions.
 
+## Portfolio
+
+Explore my repositories below for project evidence and analysis work.
+Projects include business problem definition, analysis, implementation, insights, documentation, and supporting evidence.

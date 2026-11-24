@@ -16,17 +16,23 @@ B.Tech CS + MBA BA, with a focus on building practical solutions across Business
 
 ## Featured Work
 
-#### Data Analytics
-
-- [Customer Churn & Retention Analytics — Python](https://github.com/sarthak-jaykar/customer-churn-retention-analytics)
-- [Retail Sales Business Analysis — Power BI](https://github.com/sarthak-jaykar/Retail-Sales-Business-Analysis-PowerBI)
-- [Retail Sales Business Analysis — SQL/PostgreSQL](https://github.com/sarthak-jaykar/Retail-Sales-Business-Analysis-SQL)
-- [Financial Planning & Sales Performance Dashboard — Excel](https://github.com/sarthak-jaykar/financial-planning-sales-performance-dashboard)
-
 #### Business Analysis
 
-- [IT Service Request Management — BA Case Study](https://github.com/sarthak-jaykar/IT-Service-Request-Management-BA-Case-Study)
-- [BA Tools Mini Projects — Jira, Confluence, BPMN & Postman](https://github.com/sarthak-jaykar/BA-Tools-Mini-Projects)
+- [IT Service Management — End-to-End Business Analysis & Requirements Engineering Case Study](https://github.com/sarthak-jaykar/IT-Service-Request-Management-BA-Case-Study)
+- [Business Analyst Tools — Jira, Confluence, BPMN & Postman Mini-Projects](https://github.com/sarthak-jaykar/BA-Tools-Mini-Projects)
+
+#### Power BI — Business Intelligence
+
+- [Financial Planning & Analysis — Budget vs Actual, Revenue, OPEX & EBITDA](https://github.com/sarthak-jaykar/budget-vs-actual-fpa-analytics)
+- [Operations & Supply Chain — Inventory Optimization, Replenishment & Stockout Risk](https://github.com/sarthak-jaykar/Inventory-Optimization-Analytics)
+- [Business Systems & IT — Service Management, SLA Compliance & Backlog Performance](https://github.com/sarthak-jaykar/IT-Service-SLA-Analytics)
+- [Human Resources — Workforce Pay Equity & Salary Analysis](https://github.com/sarthak-jaykar/workforce-pay-equity-analytics)
+- [Marketing — Promotion & Discount Effectiveness, Sales & Profitability](https://github.com/sarthak-jaykar/promotion-discount-effectiveness-analytics)
+
+#### SQL & Python — Exploratory Data Analysis
+
+- [E-Commerce Business Analysis — Conversion Funnels, Marketing Channels & Revenue (PostgreSQL)](https://github.com/sarthak-jaykar/maven-fuzzy-factory-ecommerce-eda-sql)
+- [Consumer Finance Analysis — Complaint Trends, Response Timeliness & Outcomes (Python)](https://github.com/sarthak-jaykar/cfpb-consumer-complaints-python-eda)
 
 ## What I Focus On
 
